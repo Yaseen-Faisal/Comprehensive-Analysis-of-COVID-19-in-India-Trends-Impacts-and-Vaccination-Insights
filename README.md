@@ -24,6 +24,9 @@ The dataset contains COVID-19-related statistics for various Indian states and c
 * Vaccination_Rate: Vaccination percentage (in %).
 * Testing_Rate: Testing percentage (in %).
 
+## How to Run
+
+
 ## Tools and Libraries Used
 
 - Python
