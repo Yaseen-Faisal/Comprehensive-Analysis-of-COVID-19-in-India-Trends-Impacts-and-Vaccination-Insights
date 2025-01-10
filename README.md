@@ -25,6 +25,8 @@ The dataset contains COVID-19-related statistics for various Indian states and c
 * Testing_Rate: Testing percentage (in %).
 
 ## How to Run
+- git clone 
+- Install dependencies: '!pip install ipython-sql'
 
 
 ## Tools and Libraries Used
