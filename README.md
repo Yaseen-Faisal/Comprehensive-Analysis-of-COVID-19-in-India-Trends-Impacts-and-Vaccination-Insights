@@ -10,7 +10,8 @@ This project presents a detailed analysis of the COVID-19 pandemic in India, foc
 - **Vaccination Analysis**: Analysis of vaccination rates and their correlation with case trends.
 - **Findings and Conclusions**: Summarized key insights and policy recommendations.
 
-##Data Set
+## Data Set
+
 The dataset contains COVID-19-related statistics for various Indian states and cities, including:
 * Date: The date of data collection (format: DD-MM-YYYY).
 * State: Indian state where the data was collected.
