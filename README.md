@@ -10,7 +10,7 @@ This project presents a detailed analysis of the COVID-19 pandemic in India, foc
 - **Vaccination Analysis**: Analysis of vaccination rates and their correlation with case trends.
 - **Findings and Conclusions**: Summarized key insights and policy recommendations.
 
-## Technologies Used
+## Tools and Libraries Used
 
 - Python
 - Pandas
