@@ -25,7 +25,7 @@ The dataset contains COVID-19-related statistics for various Indian states and c
 * Testing_Rate: Testing percentage (in %).
 
 ## How to Run
-- git clone 
+- git clone https://github.com/Yaseen-Faisal/Comprehensive-Analysis-of-COVID-19-in-India-Trends-Impacts-and-Vaccination-Insights.git
 - Install dependencies: '!pip install ipython-sql'
 
 
